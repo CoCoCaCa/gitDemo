@@ -1,5 +1,5 @@
 <?
 
-$str = "This is second gitFile";
+$str = "This is GitHub";
 
 ?>
